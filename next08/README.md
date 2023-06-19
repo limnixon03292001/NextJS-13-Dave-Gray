@@ -1,5 +1,7 @@
 ### BULDING REST API
 - GET, DELETE, POST, PUT, DYNAMIC ROUTE ([id])
+(next09)
+- MIDDLEWARE, APPLYING CORS TO API, RATE LIMITER FOR API ROUTE MIDDLEWARE
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
