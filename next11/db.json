@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "userId": 1,
+      "title": "Get Coffee ☕☕☕",
+      "completed": false,
+      "id": 2
+    },
+    {
+      "userId": 1,
+      "title": "Go to Work ⚒",
+      "completed": false,
+      "id": 3
+    },
+    {
+      "userId": 1,
+      "title": "{ cache: 'no-store' }",
+      "id": 4,
+      "completed": false
+    }
+  ]
+}
